@@ -16,6 +16,7 @@ apt-get install python3-pip
 pip3 install python3_xlib
 apt-get install python3-tk
 pip3 install pyautogui
+apt-get install scrot
 ```
 [Сайт библиотеки](http://pyautogui.readthedocs.io/en/latest/screenshot.html)
 
